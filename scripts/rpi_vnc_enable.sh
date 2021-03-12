@@ -1,3 +1,9 @@
+#	Utility to enable VNC Raspberry Pi
+#
+#			Author: Viki (a) Vignesh Natarajan
+#			Contact: vikiworks.io
+#
+
 mkdir -p /home/pi/.config/autostart
 touch /home/pi/.config/autostart/tightvnc.desktop
 
